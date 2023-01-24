@@ -6,6 +6,7 @@ music. In our project, we used the sound frequencies to make the same (sa, re, g
 
 ![alt text](https://github.com/Uchswas/Hand-Gloves-Piano/blob/master/piezo_piano_bb.png)
 
+<p align="center">
 
 ![alt text](https://github.com/Uchswas/Hand-Gloves-Piano/blob/master/FM1U3HEIWWFUC5I.RECTANGLE1.jpg)
-
+</p>

@@ -1,7 +1,3 @@
-# Arduino_based_HandGloves_Piano
+# Arduino based HandGloves Piano
 
-This is a Arduino Based Hand Gloves Digital Piano.
-It was our 3rd Year 2nd Semester Hardware Project.
-It is a complete project with source code,digram and project report.
-You can use this to make a Handgloves digital piano
-Any suggestion regrading this project will be highly appreciated.
+This is an Arduino-based hand-glove digital piano. It was our 3rd-year, 2nd-semester hardware project. It is a complete project with source code, a diagram, and a project report. You can use this to make a Handgloves digital piano Any suggestions regarding this project will be highly appreciated.

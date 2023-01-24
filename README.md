@@ -1,3 +1,8 @@
 # Arduino based HandGloves Piano
 
-This is an Arduino-based hand-glove digital piano. It was our 3rd-year, 2nd-semester hardware project. It is a complete project with source code, a diagram, and a project report. You can use this to make a Handgloves digital piano Any suggestions regarding this project will be highly appreciated.
+The aim of this project is to make an Arduino-based piano that can be operated by
+wearing hand gloves.In a typical harmonium, we create different types of tones or
+music or lyrics. In our project, we used the  tone frequencies to make the same (sa, re, ga, ma, pa, dha, ni, sa) tone
+that this can be used to create some music or musical tones. It’s like a small digital
+Harmonium!  When one finger touches the thumb
+finger corresponding tone will be sounded. 
